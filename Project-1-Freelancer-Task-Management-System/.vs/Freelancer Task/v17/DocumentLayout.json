@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|d:\\personal\\education\\iti\\c#\\linq\\freelancer task\\forms\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|solutionrelative:forms\\taskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|d:\\personal\\education\\iti\\c#\\linq\\freelancer task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|d:\\personal\\education\\iti\\c#\\linq\\freelancer task\\forms\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|solutionrelative:forms\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|d:\\personal\\education\\iti\\c#\\linq\\freelancer task\\forms\\projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|solutionrelative:forms\\projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|d:\\personal\\education\\iti\\c#\\linq\\freelancer task\\forms\\projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|solutionrelative:forms\\projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|d:\\personal\\education\\iti\\c#\\linq\\freelancer task\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|d:\\personal\\education\\iti\\c#\\linq\\freelancer task\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ECFDAC-E4C5-4AEF-947D-8DC270E79DF0}|Freelancer Task.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskForm.cs",
+              "DocumentMoniker": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\TaskForm.cs",
+              "RelativeDocumentMoniker": "Forms\\TaskForm.cs",
+              "ToolTip": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\TaskForm.cs",
+              "RelativeToolTip": "Forms\\TaskForm.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAtwHEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:51:33.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\ClientService.cs",
+              "RelativeDocumentMoniker": "Forms\\ClientService.cs",
+              "ToolTip": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\ClientService.cs",
+              "RelativeToolTip": "Forms\\ClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:50:31.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectForm.cs",
+              "DocumentMoniker": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\ProjectForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ProjectForm.cs",
+              "ToolTip": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\ProjectForm.cs",
+              "RelativeToolTip": "Forms\\ProjectForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:50:05.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectForm.cs [Design]",
+              "DocumentMoniker": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\ProjectForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ProjectForm.cs",
+              "ToolTip": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\ProjectForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ProjectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:50:02.739Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms\\Form1.cs",
+              "ToolTip": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\Form1.cs",
+              "RelativeToolTip": "Forms\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:48:44.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms\\Form1.cs",
+              "ToolTip": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:48:21.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Personal\\Education\\ITI\\C#\\LINQ\\Freelancer Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T20:41:41.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\bin\Debug\net8.0\Day07-Day08.exe
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\bin\Debug\net8.0\Day07-Day08.deps.json
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\bin\Debug\net8.0\Day07-Day08.runtimeconfig.json
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\bin\Debug\net8.0\Day07-Day08.dll
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\bin\Debug\net8.0\Day07-Day08.pdb
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\obj\Debug\net8.0\Day07-Day08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\obj\Debug\net8.0\Day07-Day08.AssemblyInfoInputs.cache
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\obj\Debug\net8.0\Day07-Day08.AssemblyInfo.cs
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\obj\Debug\net8.0\Day07-Day08.csproj.CoreCompileInputs.cache
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\obj\Debug\net8.0\Day07-Day08.dll
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\obj\Debug\net8.0\refint\Day07-Day08.dll
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\obj\Debug\net8.0\Day07-Day08.pdb
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\obj\Debug\net8.0\Day07-Day08.genruntimeconfig.cache
+D:\Personal\Education\ITI\C#\New folder\Day07-Day08\obj\Debug\net8.0\ref\Day07-Day08.dll

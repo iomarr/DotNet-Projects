@@ -1,0 +1,14 @@
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\obj\Debug\net8.0\Examintation System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\obj\Debug\net8.0\Examintation System.AssemblyInfoInputs.cache
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\obj\Debug\net8.0\Examintation System.AssemblyInfo.cs
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\obj\Debug\net8.0\Examintation System.csproj.CoreCompileInputs.cache
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\bin\Debug\net8.0\Examintation System.exe
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\bin\Debug\net8.0\Examintation System.deps.json
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\bin\Debug\net8.0\Examintation System.runtimeconfig.json
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\bin\Debug\net8.0\Examintation System.dll
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\bin\Debug\net8.0\Examintation System.pdb
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\obj\Debug\net8.0\Examintation System.dll
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\obj\Debug\net8.0\refint\Examintation System.dll
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\obj\Debug\net8.0\Examintation System.pdb
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\obj\Debug\net8.0\Examintation System.genruntimeconfig.cache
+D:\Personal\Education\ITI\C#\New folder\Project-2-Exam-System\obj\Debug\net8.0\ref\Examintation System.dll
