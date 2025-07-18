@@ -29,7 +29,7 @@ Object-Oriented exam system simulation handling question types and inheritance p
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Open each solution `.sln` file in Visual Studio 2022+.
 2. Build & run the projects as normal desktop apps.
 
